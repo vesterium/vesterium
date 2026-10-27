@@ -1,11 +1,5 @@
 # Hey, I'm Ozodjon 👋
 
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</p>
-
 Building products alone is tough, but it teaches you everything from legal compliance to debugging broken production at 3 AM. I am a 19-year-old engineer shipping AI-native software, automating cloud infrastructure, and running full business operations as a Founder & CEO. Moving fast, breaking rules, and writing clean code.
 
 ---
@@ -20,11 +14,7 @@ Building products alone is tough, but it teaches you everything from legal compl
 
 ---
 
-### 🚀 My Tech Stack & Activity
-
-<p align="left">
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+### 🚀 My Tech Stack
 
 * 🤖 **AI Ecosystem:** OpenAI API | Python | LangChain
 * 🌐 **Code & Frameworks:** TypeScript | JavaScript | Node.js | Next.js | NestJS | React | Go
@@ -33,10 +23,11 @@ Building products alone is tough, but it teaches you everything from legal compl
 ---
 
 ### 📈 Contribution History
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Streak" src="https://githubusercontent.com">
+  <img alt="GitHub Snake" src="https://githubusercontent.com">
 </picture>
 
 ---
@@ -60,4 +51,4 @@ Building products alone is tough, but it teaches you everything from legal compl
 ### 📬 Hit Me Up
 
 * ✈️ **Telegram:** [@the_cooperate](https://t.me)
-* 💼 **LinkedIn:** [linkedin.com/in/ozodjon-yuldashev-37baa4373](https://linkedin.com)
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
