@@ -1,12 +1,16 @@
 # Hey, I'm Ozodjon 👋
 
-**19-Year-Old Solopreneur & Technical Founder | AI Product Builder | Full-Stack & DevOps**
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
 
 Building products alone is tough, but it teaches you everything from legal compliance to debugging broken production at 3 AM. I am a 19-year-old engineer shipping AI-native software, automating cloud infrastructure, and running full business operations as a Founder & CEO. Moving fast, breaking rules, and writing clean code.
 
 ---
 
-### 🚀 What I Actually Do
+### 🛠️ What I Actually Do
 
 * 💼 **Business & Strategy (CEO):** Validating MVPs, tweaking unit economics, handling legal stuff, and building B2B/B2C sales tunnels from scratch.
 * 🧠 **AI Engineering:** Integrating LLMs (OpenAI API), architecting autonomous agents, and building production-ready workflows with LangChain.
@@ -16,30 +20,44 @@ Building products alone is tough, but it teaches you everything from legal compl
 
 ---
 
-### 🛠 My Tech Stack
+### 🚀 My Tech Stack & Activity
 
-* 🤖 **AI Ecosystem:** `OpenAI API` | `Python` | `LangChain`
-* 💻 **Code & Frameworks:** `TypeScript` | `JavaScript` | `Node.js` | `Next.js` | `NestJS` | `React` | `Go`
-* ⚙️ **Infrastructure & DBs:** `Docker` | `Kubernetes` | `Linux` | `GitHub Actions` | `AWS` | `PostgreSQL` | `Redis`
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+* 🤖 **AI Ecosystem:** OpenAI API | Python | LangChain
+* 🌐 **Code & Frameworks:** TypeScript | JavaScript | Node.js | Next.js | NestJS | React | Go
+* ⚙️ **Infrastructure & DBs:** Docker | Kubernetes | Linux | GitHub Actions | AWS | PostgreSQL | Redis
+
+---
+
+### 📈 Contribution History
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Streak" src="https://githubusercontent.com">
+</picture>
 
 ---
 
 ### 🎓 Education & Background
 
 * 🏫 **School 21** - Advanced Software Engineering & DevOps Program *(Final Stage)*.
-* 🎓 **KIUT** - Pursuing Computer Science / Engineering Degree.
-* 📚 **Self-Education:** Currently completing advanced tech tracks to get certified by Harvard, MIT, and Stanford.
+* 🏛️ **KIUT** - Pursuing Computer Science / Engineering Degree.
+* 💡 **Self-Education:** Currently completing advanced tech tracks to get certified by Harvard, MIT, and Stanford.
 
 ---
 
 ### 📦 My Projects & Ventures
 
-* 🚀 **DrivePass** - Mobile app built with React Native, Capacitor, and Supabase. Scaling it for modern mobility challenges.
+* 🚗 **DrivePass** - Mobile app built with React Native, Capacitor, and Supabase. Scaling it for modern mobility challenges.
 * 🐋 **Whale App** - Pure TypeScript product ecosystem focused on performance and clean code architecture.
-* 🕵️‍♂️ **My Stealth AI Startup** - Building an AI-native SaaS product. Keeping details quiet for now, but shipping code daily.
+* 🥷 **My Stealth AI Startup** - Building an AI-native SaaS product. Keeping details quiet for now, but shipping code daily.
 
+---
 
 ### 📬 Hit Me Up
 
-* 💬 **Telegram:** [@the_cooperate](https://t.me)
+* ✈️ **Telegram:** [@the_cooperate](https://t.me)
 * 💼 **LinkedIn:** [linkedin.com/in/ozodjon-yuldashev-37baa4373](https://linkedin.com)
