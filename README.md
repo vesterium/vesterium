@@ -15,6 +15,12 @@ Building products alone is tough, but it teaches you everything from legal compl
 ---
 
 ### 🚀 My Tech Stack
+---
+
+### 📈 Contribution History
+
+![Snake animation](assets/github-snake-dark.svg)
+
 
 * 🤖 **AI Ecosystem:** OpenAI API | Python | LangChain
 * 🌐 **Code & Frameworks:** TypeScript | JavaScript | Node.js | Next.js | NestJS | React | Go
